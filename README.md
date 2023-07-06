@@ -1,12 +1,12 @@
 # kel-1_tanjungDuren_web-company
 
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/RahmanIslamIen/kel-1_tanjungDuren_web-company/blob/main/LICENSE)
 [![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
-[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
-[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/RahmanIslamIen/kel-1_tanjungDuren_web-company/graphs/contributors/)
+[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://github.com/RahmanIslamIen/kel-1_tanjungDuren_web-company/stargazers)
+[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](ttps://github.com/RahmanIslamIen/kel-1_tanjungDuren_web-company/network/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](ttps://github.com/RahmanIslamIen/kel-1_tanjungDuren_web-company/graphs/commit-activity)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 
