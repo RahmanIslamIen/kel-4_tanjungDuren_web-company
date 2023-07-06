@@ -16,12 +16,12 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
-<p>tugas kuliah pemrograman web landing page company profile undira software house.</p>
+<p>tugas kuliah pemrograman web landing page company profile undira software house, tipe website static tanpa database pure font-end yang terlihat menarik dan mamapu menarik simpati pengguna menjadi pelanggan. dengan pembagian tugas pada project ini diharapkan dapat mencapai hasil yang maksimal pada desain website.</p>
 <h5>kelompok 1 - tanjung duren</h5>
 <ul>
-  <li>Rahman Islam</li>
-  <li>Isati Gulo</li>
-  <li>Rizkiy Febrian</li>
-  <li>Arman Juliansyah</li>
-  <li>Dannie Basse</li>
+  <li>Rahman Islam - koding frame sturcture license, readme, penambahan plugin font-end</li>
+  <li>Isati Gulo - nulis hero section</li>
+  <li>Rizkiy Febrian - section klien dan jasa</li>
+  <li>Arman Juliansyah - section membantu rapikan desain</li>
+  <li>Dannie Basse - setion protofolio dan footer</li>
 </ul>
