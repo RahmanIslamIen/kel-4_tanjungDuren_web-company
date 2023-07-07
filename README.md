@@ -1,14 +1,13 @@
 # kel-1_tanjungDuren_web-company
 
+[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/RahmanIslamIen/kel-1_tanjungDuren_web-company/blob/main/LICENSE)
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/RahmanIslamIen/kel-1_tanjungDuren_web-company/graphs/contributors/)
+[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Rahmanislamien/kel-1_tanjungDuren_web-company)
 ![GitHub forks](https://img.shields.io/github/forks/RahmanIslamIen/kel-1_tanjungDuren_web-company)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](ttps://github.com/RahmanIslamIen/kel-1_tanjungDuren_web-company/graphs/commit-activity)
-[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
-[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
+![GitHub contributors](https://img.shields.io/github/contributors/RahmanIslamIen/kel-1_tanjungDuren_web-company?color=lime)
 
 <div style="display: inline;">
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
