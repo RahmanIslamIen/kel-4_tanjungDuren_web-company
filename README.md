@@ -26,5 +26,5 @@
   <li>Isati Gulo - nulis hero section</li>
   <li>Rizkiy Febrian - section klien dan jasa</li>
   <li>Arman Juliansyah - section membantu rapikan desain dan bagian tulisan pada heading dan sub heading</li>
-  <li>Dannie Basse - setion protofolio dan footer</li>
+  <li>Dannie Basse - setion portofolio dan footer</li>
 </ul>
